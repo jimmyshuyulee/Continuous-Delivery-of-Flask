@@ -1,6 +1,6 @@
-# gcp-hello-ml
+# Continuous-Delivery-of-Flask
 
-more stuff
+In this project, I deploy a flask application onto Google Cloud Platform, and I utilize Google Cloudbuild to acheive continuous delivery of the project.
 
 ## Hello World.
 
